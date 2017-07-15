@@ -1,8 +1,8 @@
 {
   "name": "react-odata-table",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "",
-  "main": "src/index.js",
+  "main": "dist/index.js",
   "scripts": {
     "compile": "babel --presets es2015 --plugins transform-react-jsx -d dist/ ./src/"
   },

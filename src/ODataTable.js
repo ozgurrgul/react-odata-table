@@ -96,8 +96,6 @@ class ODataTable extends React.Component {
             .map(r => r.serverKey + ' eq ' + r.filterTxt)
             .join('')
 
-        console.log("eqKeySearch", eqKeySearch)
-
         if(filterStr) {
 
             if(eqKeySearch) {
