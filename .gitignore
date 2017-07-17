@@ -28,5 +28,4 @@ build/Release
 node_modules
 .idea
 dist
-test
 documentation
